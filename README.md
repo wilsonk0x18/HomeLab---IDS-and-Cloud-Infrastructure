@@ -7,11 +7,15 @@
 - Gained hands-on experience with network security, traffic analysis, cloud management, and virtualization using Proxmox Hypervisor.
 
 
+
+
 <div align="center">
   <h1><b>Topology</b></h1>
 </div>
 
 ![Topology](https://github.com/user-attachments/assets/89bbd5fe-cceb-4967-b5d6-f156e589de61)
+
+
 
 
 <div align="center">
@@ -23,11 +27,15 @@
 ![onion](https://github.com/user-attachments/assets/fc816c8c-6e1a-4b0e-aa29-7c517504010a)
 
 
+
+
 <div align="center">
   <h1><b>Private Cloud</b></h1>
 </div>
 
 ![cloud](https://github.com/user-attachments/assets/e438a738-40c0-4487-851b-4236efe3f983)
+
+
 
 
 <div align="center">
