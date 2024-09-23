@@ -6,8 +6,8 @@
 - Designed and deployed private cloud infrastructure, hosting various services and applications for personal use. 
 - Gained hands-on experience with network security, traffic analysis, cloud management, and virtualization using Proxmox Hypervisor.
 
-
-
+<br>
+<br>
 
 <div align="center">
   <h1><b>Topology</b></h1>
@@ -15,8 +15,8 @@
 
 ![Topology](https://github.com/user-attachments/assets/89bbd5fe-cceb-4967-b5d6-f156e589de61)
 
-
-
+<br>
+<br>
 
 <div align="center">
   <h1><b>Security Onion IDS</b></h1>
@@ -26,8 +26,8 @@
 
 ![onion](https://github.com/user-attachments/assets/fc816c8c-6e1a-4b0e-aa29-7c517504010a)
 
-
-
+<br>
+<br>
 
 <div align="center">
   <h1><b>Private Cloud</b></h1>
@@ -35,8 +35,8 @@
 
 ![cloud](https://github.com/user-attachments/assets/e438a738-40c0-4487-851b-4236efe3f983)
 
-
-
+<br>
+<br>
 
 <div align="center">
   <h1><b>Administrative Tools</b></h1>
